@@ -48,10 +48,10 @@ namespace Ejercicio1
             // 
             // tbResultado
             // 
-            tbResultado.Location = new Point(78, 237);
+            tbResultado.Location = new Point(78, 227);
             tbResultado.Multiline = true;
             tbResultado.Name = "tbResultado";
-            tbResultado.Size = new Size(590, 162);
+            tbResultado.Size = new Size(600, 172);
             tbResultado.TabIndex = 1;
             // 
             // lbResultado
@@ -87,7 +87,7 @@ namespace Ejercicio1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(753, 450);
             Controls.Add(button2);
             Controls.Add(textBox2);
             Controls.Add(lbResultado);
